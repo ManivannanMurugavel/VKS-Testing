@@ -1,0 +1,10 @@
+D:\Dot Net\DotNetExample\C#-Projects\VKS-Testing\VKS-Testing\bin\Debug\VKS-Testing.exe.config
+D:\Dot Net\DotNetExample\C#-Projects\VKS-Testing\VKS-Testing\bin\Debug\VKS-Testing.exe
+D:\Dot Net\DotNetExample\C#-Projects\VKS-Testing\VKS-Testing\bin\Debug\VKS-Testing.pdb
+D:\Dot Net\DotNetExample\C#-Projects\VKS-Testing\VKS-Testing\obj\Debug\VKS-Testing.csprojAssemblyReference.cache
+D:\Dot Net\DotNetExample\C#-Projects\VKS-Testing\VKS-Testing\obj\Debug\VKS_Testing.Form1.resources
+D:\Dot Net\DotNetExample\C#-Projects\VKS-Testing\VKS-Testing\obj\Debug\VKS_Testing.Properties.Resources.resources
+D:\Dot Net\DotNetExample\C#-Projects\VKS-Testing\VKS-Testing\obj\Debug\VKS-Testing.csproj.GenerateResource.cache
+D:\Dot Net\DotNetExample\C#-Projects\VKS-Testing\VKS-Testing\obj\Debug\VKS-Testing.csproj.CoreCompileInputs.cache
+D:\Dot Net\DotNetExample\C#-Projects\VKS-Testing\VKS-Testing\obj\Debug\VKS-Testing.exe
+D:\Dot Net\DotNetExample\C#-Projects\VKS-Testing\VKS-Testing\obj\Debug\VKS-Testing.pdb
